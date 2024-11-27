@@ -266,6 +266,13 @@
         align-self: center;
         width: 169px;
     }
+    .popup-book{
+        width: 400px;
+
+    }
+    .overlay{
+        height: 100%;
+    }
 
 }
 
@@ -282,6 +289,15 @@
     .create-bookmark-btn {
         align-self: center;
         width: 169px;
+    }
+    .popup-book{
+        width: 326px;
+    }
+    .book-input{
+        width: 226px;
+    }
+    .overlay{
+        height: 100%;
     }
 
 }
